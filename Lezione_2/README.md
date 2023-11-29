@@ -1,4 +1,4 @@
-# Lezione 2: Funzioni in Python
+# Lezione 2: Funzioni
 
 Questa lezione introduce il concetto di funzioni in Python, fornendo una panoramica su cosa sono e come vengono utilizzate. Gli argomenti specifici, inclusi esempi pratici e dettagli sulla sintassi, sono dettagliatamente spiegati nel notebook presente nella cartella corrispondente.
 
