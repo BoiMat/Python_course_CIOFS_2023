@@ -1,6 +1,6 @@
 # Lezione 4: Cicli, Liste e Dizionari
 
-Benvenuti alla Lezione 4 del nostro corso di Python! In questa lezione, esploreremo concetti chiave relativi ai cicli, alle liste e ai dizionari in Python. Continueremo ad approfondire la comprensione di come Python gestisce la manipolazione dei dati e l'iterazione attraverso essi.
+In questa lezione, esploreremo concetti chiave relativi ai cicli, alle liste e ai dizionari in Python. Continueremo ad approfondire la comprensione di come Python gestisce la manipolazione dei dati e l'iterazione attraverso essi.
 
 ## Argomenti Trattati:
 
