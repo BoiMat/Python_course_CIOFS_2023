@@ -1,0 +1,62 @@
+[
+  {
+    "descrizione": "Cena al ristorante",
+    "importo": 50.0,
+    "categoria": "Ristorazione",
+    "data": "2023-10-01"
+  },
+  {
+    "descrizione": "Spesa al supermercato",
+    "importo": 80.0,
+    "categoria": "Alimentari",
+    "data": "2023-10-03"
+  },
+  {
+    "descrizione": "Biglietto del cinema",
+    "importo": 12.5,
+    "categoria": "Intrattenimento",
+    "data": "2023-10-05"
+  },
+  {
+    "descrizione": "Carburante",
+    "importo": 40.0,
+    "categoria": "Trasporti",
+    "data": "2023-10-10"
+  },
+  {
+    "descrizione": "Libro in libreria",
+    "importo": 25.0,
+    "categoria": "Cultura",
+    "data": "2023-10-15"
+  },
+  {
+    "descrizione": "Caff\u00e8 al bar",
+    "importo": 3.0,
+    "categoria": "Ristorazione",
+    "data": "2023-10-02"
+  },
+  {
+    "descrizione": "Abbonamento mensile palestra",
+    "importo": 40.0,
+    "categoria": "Sport",
+    "data": "2023-10-04"
+  },
+  {
+    "descrizione": "Spesa per il pranzo",
+    "importo": 15.0,
+    "categoria": "Alimentari",
+    "data": "2023-10-06"
+  },
+  {
+    "descrizione": "Biglietto del teatro",
+    "importo": 20.0,
+    "categoria": "Intrattenimento",
+    "data": "2023-10-08"
+  },
+  {
+    "descrizione": "Ricarica del cellulare",
+    "importo": 10.0,
+    "categoria": "Utilit\u00e0",
+    "data": "2023-10-12"
+  }
+]
